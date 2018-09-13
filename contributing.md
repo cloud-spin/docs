@@ -7,10 +7,11 @@ As a member of the open source community, please help grow the community by usin
 
 If you are interested in contributing to CloudSpin, for now help to spread the word and let others know about CloudSpin. Once CloudSpin is fully tested and verified to be working as expected, we'll start accepting contributions.
 
-We're 100% commited to below software development rules for CloudSpin:
+We're 100% commited to below software development rules:
 
 - Simplicity
 - Testable code
+- Performance
 - Tests, tests, tests!
 	- Strong test suite covering all major code routes/branches
 	- Strong focus to achieve 100% code coverage everywhere
